@@ -13,20 +13,20 @@
   <a href="https://github.com/Ali-Abdelhamid-Ali?tab=followers">
     <img src="https://img.shields.io/github/followers/Ali-Abdelhamid-Ali?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
   </a>
-  <img src="https://img.shields.io/badge/Public%20Repos-21-0f172a?style=for-the-badge" alt="Public repos count" />
+  <img src="https://img.shields.io/badge/Focus-GenAI%20%7C%20CV%20%7C%20ML-0f172a?style=for-the-badge" alt="Focus areas" />
 </p>
 
 ## About Me
 
 - AI Engineer focused on applied machine learning, computer vision, and GenAI-powered workflows.
-- Building projects across data science notebooks, Python backends, and AI-enabled products.
+- Building projects across data science notebooks, Python backends, and AI-enabled products with clear problem/solution framing.
 - Currently learning **Generative AI with DEPI**.
-- I care about practical results, clean project organization, and portfolio-ready delivery.
+- My goal is to turn ML experiments into useful, user-facing tools and production-ready workflows.
 
 ## Quick Links
 
 <p align="left">
-  <a href="https://ali-abdelhamid-portfolio.netlify.app/" target="_blank">
+  <a href="https://ali-portfolioo.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live%20Site-0ea5e9?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://drive.google.com/file/d/1BD_O0d2gpY4gf5M9dECW6-gNOEVprnih/view?usp=drive_link" target="_blank">
@@ -46,84 +46,91 @@
 ## GitHub Snapshot
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ali-Abdelhamid-Ali&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ali-Abdelhamid-Ali&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats" />
   <img width="49%" src="https://streak-stats.demolab.com?user=Ali-Abdelhamid-Ali&theme=transparent&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Abdelhamid-Ali&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ali-Abdelhamid-Ali&theme=transparent&utcOffset=2" alt="Productive time card" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Abdelhamid-Ali&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
 </p>
 
 ## Featured Projects
 
 ### 1) Inventory Chatbot with Present Query Output
 - **Repo:** [`Inventory-Chatbot-with-Present-Query-Output`](https://github.com/Ali-Abdelhamid-Ali/Inventory-Chatbot-with-Present-Query-Output)
-- **Focus:** LLM-oriented inventory/chat workflow with query-result presentation for clearer user-facing output.
+- **Goal:** Build an AI assistant experience that answers inventory-related questions and presents query results in a clearer, user-friendly format.
+- **What it demonstrates:** LLM workflow thinking, response presentation, and AI product UX.
 - **Tags:** `GenAI` `Chatbot` `Data Query` `AI Product UX`
 
 ### 2) AOU Graduation Project
 - **Repo:** [`AOU-Graduation-Project`](https://github.com/Ali-Abdelhamid-Ali/AOU-Graduation-Project)
-- **Focus:** Main graduation-project codebase with a JavaScript-heavy implementation and product-scale organization.
+- **Goal:** Deliver a graduation-level product with structured implementation, project organization, and real feature integration.
+- **What it demonstrates:** End-to-end project execution, JavaScript development, and academic-to-practical delivery.
 - **Tags:** `Graduation Project` `JavaScript` `Web App`
 
 ### 3) Human Activity Recognition with Smartphones
 - **Repo:** [`Human-Activity-Recognition-with-Smartphones`](https://github.com/Ali-Abdelhamid-Ali/Human-Activity-Recognition-with-Smartphones)
-- **Focus:** Machine-learning classification pipeline for recognizing human activities from smartphone sensor data.
+- **Goal:** Classify human activities from smartphone sensor data using machine learning models.
+- **What it demonstrates:** Feature-based ML pipeline design, sensor-data classification, and evaluation workflow.
 - **Tags:** `ML` `Classification` `Sensor Data` `Jupyter`
 
 ### 4) 3D Brain Tumor Segmentation (BraTS 2021)
 - **Repo:** [`The_Best_3D_Brain_Tumor_Segmentation_BraTS_2021_CODE`](https://github.com/Ali-Abdelhamid-Ali/The_Best_3D_Brain_Tumor_Segmentation_BraTS_2021_CODE)
-- **Focus:** Medical imaging / 3D segmentation experimentation around brain tumor segmentation workflows.
+- **Goal:** Explore deep-learning approaches for segmenting brain tumors in 3D medical imaging data (BraTS 2021 context).
+- **What it demonstrates:** Medical imaging understanding, segmentation workflows, and research-style experimentation.
 - **Tags:** `Computer Vision` `Medical Imaging` `Segmentation` `Deep Learning`
 
 ### 5) Microsoft Malware Prediction (75 AUC)
 - **Repo:** [`Microsoft-Malware-Prediction-75-auc`](https://github.com/Ali-Abdelhamid-Ali/Microsoft-Malware-Prediction-75-auc)
-- **Focus:** Tabular ML experimentation for malware prediction with performance-oriented model tuning.
+- **Goal:** Predict malware-related outcomes from tabular/security-style features with a performance target around 0.75 AUC.
+- **What it demonstrates:** Tabular ML experimentation, metrics-driven tuning, and model evaluation.
 - **Tags:** `ML` `Security Data` `Tabular` `Modeling`
 
 ### 6) IoT Sector B5 Final Project
 - **Repo:** [`IOT_Sector_B5_Final_Project`](https://github.com/Ali-Abdelhamid-Ali/IOT_Sector_B5_Final_Project)
-- **Focus:** IoT project implementation with C++ and embedded/system-level problem solving.
+- **Goal:** Build an IoT-focused final project with embedded/system-level logic using C++.
+- **What it demonstrates:** IoT fundamentals, C++ implementation, and hardware-oriented problem solving.
 - **Tags:** `IoT` `C++` `Embedded`
 
 ## Project Catalog (All Public Repositories)
 
+> Featured projects are highlighted above. The sections below organize the remaining public repositories with a short goal/intent for each one.
+
 <details>
   <summary><b>Generative AI / Assistants / Python Utilities (4)</b></summary>
 
-- [`DEPI-PROJECT`](https://github.com/Ali-Abdelhamid-Ali/DEPI-PROJECT) - DEPI-related project repository (AI/learning track work).
-- [`developer_reg_assistant`](https://github.com/Ali-Abdelhamid-Ali/developer_reg_assistant) - Python assistant-style project for registration/help workflow experimentation.
-- [`Car--issues`](https://github.com/Ali-Abdelhamid-Ali/Car--issues) - Python project iteration focused on car issues/problem-handling logic.
-- [`Car--issues22`](https://github.com/Ali-Abdelhamid-Ali/Car--issues22) - Follow-up/iteration of the car issues project with continued Python work.
+- [`DEPI-PROJECT`](https://github.com/Ali-Abdelhamid-Ali/DEPI-PROJECT) - Goal: apply DEPI learning track concepts in a project-based AI/GenAI implementation.
+- [`developer_reg_assistant`](https://github.com/Ali-Abdelhamid-Ali/developer_reg_assistant) - Goal: build a Python assistant to support registration/help interactions and automate repetitive user guidance.
+- [`Car--issues`](https://github.com/Ali-Abdelhamid-Ali/Car--issues) - Goal: model/organize car issue troubleshooting logic in a Python workflow.
+- [`Car--issues22`](https://github.com/Ali-Abdelhamid-Ali/Car--issues22) - Goal: improve or extend the previous car-issues idea with a second Python iteration.
 
 </details>
 
 <details>
   <summary><b>Computer Vision / Medical Imaging (4)</b></summary>
 
-- [`eye-disease--try1-`](https://github.com/Ali-Abdelhamid-Ali/eye-disease--try1-) - Early computer vision experiment for eye-disease related image classification.
-- [`chest-x_ray`](https://github.com/Ali-Abdelhamid-Ali/chest-x_ray) - Chest X-ray dataset/project work for respiratory disease image analysis.
-- [`Cats--Dogs`](https://github.com/Ali-Abdelhamid-Ali/Cats--Dogs) - Classic image classification project for cat vs dog recognition.
-- [`FER_2013`](https://github.com/Ali-Abdelhamid-Ali/FER_2013) - Facial expression recognition (FER-2013) deep learning model experimentation.
+- [`eye-disease--try1-`](https://github.com/Ali-Abdelhamid-Ali/eye-disease--try1-) - Goal: test a computer vision approach for eye-disease image recognition/classification.
+- [`chest-x_ray`](https://github.com/Ali-Abdelhamid-Ali/chest-x_ray) - Goal: analyze chest X-ray images for respiratory disease-related patterns and classification tasks.
+- [`Cats--Dogs`](https://github.com/Ali-Abdelhamid-Ali/Cats--Dogs) - Goal: implement and evaluate a baseline image classifier on the Cats vs Dogs dataset.
+- [`FER_2013`](https://github.com/Ali-Abdelhamid-Ali/FER_2013) - Goal: recognize facial expressions from images using deep learning on the FER-2013 dataset.
 
 </details>
 
 <details>
   <summary><b>NLP / Sentiment Analysis (2)</b></summary>
 
-- [`Sentiment-Analysis-Amazon`](https://github.com/Ali-Abdelhamid-Ali/Sentiment-Analysis-Amazon) - Sentiment analysis on Amazon reviews (positive/negative comments).
-- [`IMDB_project`](https://github.com/Ali-Abdelhamid-Ali/IMDB_project) - NLP/sentiment-oriented project using IMDB-style text/movie review data.
+- [`Sentiment-Analysis-Amazon`](https://github.com/Ali-Abdelhamid-Ali/Sentiment-Analysis-Amazon) - Goal: classify Amazon review comments into positive/negative sentiment.
+- [`IMDB_project`](https://github.com/Ali-Abdelhamid-Ali/IMDB_project) - Goal: apply NLP/ML techniques to IMDB-style movie review analysis and sentiment tasks.
 
 </details>
 
 <details>
   <summary><b>ML Foundations / Prediction Apps (4)</b></summary>
 
-- [`final-task-for-ML`](https://github.com/Ali-Abdelhamid-Ali/final-task-for-ML) - General machine learning final-task implementation and experimentation.
-- [`diabetes`](https://github.com/Ali-Abdelhamid-Ali/diabetes) - Diabetes prediction app/project for estimating health risk indicators.
-- [`placement`](https://github.com/Ali-Abdelhamid-Ali/placement) - Placement prediction ML app for student job/internship outcomes.
-- [`digit-recognizer`](https://github.com/Ali-Abdelhamid-Ali/digit-recognizer) - Digit recognition model/project (number prediction task).
+- [`final-task-for-ML`](https://github.com/Ali-Abdelhamid-Ali/final-task-for-ML) - Goal: deliver a complete ML assignment/final task pipeline from preprocessing to model evaluation.
+- [`diabetes`](https://github.com/Ali-Abdelhamid-Ali/diabetes) - Goal: predict diabetes likelihood from patient/health features and make the output understandable to users.
+- [`placement`](https://github.com/Ali-Abdelhamid-Ali/placement) - Goal: predict whether a student is likely to secure placement (job/internship) using ML.
+- [`digit-recognizer`](https://github.com/Ali-Abdelhamid-Ali/digit-recognizer) - Goal: classify handwritten digits (number recognition) using a supervised learning workflow.
 
 </details>
 
@@ -133,14 +140,6 @@
 - [`Ali-Abdelhamid-Ali`](https://github.com/Ali-Abdelhamid-Ali/Ali-Abdelhamid-Ali) - My GitHub profile repository (this README).
 
 </details>
-
-## Private Work (Sanitized Highlights)
-
-> Some private projects are intentionally summarized without names or links to protect privacy and internal details.
-
-- **Private GenAI workflow automation** - Built internal AI-assisted pipelines for prompt-based task execution and result formatting.
-- **Private backend service prototype** - API-centric experimentation with structured data handling, validation, and integration flows.
-- **Private data/ML experimentation track** - Iterative model testing and evaluation notebooks for applied problem-solving use cases.
 
 ## Tech Stack (Grouped)
 
@@ -174,7 +173,7 @@
 <p align="left">
   <a href="mailto:alyyaser242004@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/ali-abdelhamid-ali" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://ali-abdelhamid-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-View%20Projects-0ea5e9?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://ali-portfolioo.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-View%20Projects-0ea5e9?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <p align="center">
