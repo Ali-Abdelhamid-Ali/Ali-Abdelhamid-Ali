@@ -20,7 +20,7 @@
 
 - AI Engineer focused on applied machine learning, computer vision, and GenAI-powered workflows.
 - Building projects across data science notebooks, Python backends, and AI-enabled products with clear problem/solution framing.
-- Currently learning **Generative AI with DEPI**.
+- finished **Generative AI with DEPI**.
 - My goal is to turn ML experiments into useful, user-facing tools and production-ready workflows.
 
 ## Quick Links
